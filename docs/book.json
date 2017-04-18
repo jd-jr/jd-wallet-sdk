@@ -1,0 +1,24 @@
+{
+  "language" : "zh-hans",
+  "plugins": [
+    "disqus",
+    "tbfed-pagefooter",
+    "edit-link",
+    "prism",
+    "-highlight"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "京东钱包 H5 接口"
+    },
+    "tbfed-pagefooter": {
+      "copyright":"Copyright &copy 2016 京东金融-钱包业务部-技术部-前端研发部",
+      "modify_label": "最后修改时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "edit-link": {
+      "base": "http://gitlab.cbpmgt.com/fe-team/jd-wallet-sdk/docs",
+      "label": "编辑该页面"
+    }
+  }
+}
